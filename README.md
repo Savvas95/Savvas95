@@ -3,7 +3,7 @@ I'm a Senior Data Analyst aspiring to be a Data Scientist. I enjoy solving probl
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Savvas%20Kamvisis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SavvasKamvisis)
 
 
 # 💻 Tech Stack:
